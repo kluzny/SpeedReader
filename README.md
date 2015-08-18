@@ -3,12 +3,7 @@ Just a small ruby script to help you learn to speed read. It takes a text file a
 
 ## Usage
 ```
-# ruby ./sr.rb [ words per minute ] [ words at a time ] [ file ]
-
-$ ruby ./sr.rb 300 5 ./alice-in-wonderland.txt
-
 $ ruby ./sr.rb --help
-
 SpeedReader, a cli utility for speed readers
 
 Usage:
